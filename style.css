@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,400;0,500;0,900;1,200;1,400;1,500;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+}
+
+.cabecalho > header > .foto{
+    position: absolute;
+    right: 20%;
+    top: 5%;
+}
+
+.sobre-mim {
+    margin-left: 23%;
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+
+.projetos {
+    margin-left: 23%;
+}
+
+.projetos p {
+    margin-bottom: 3%;
+}
+
+.cabecalho > header > .titulo {
+    margin-top: 0.3%;
+    color: white;
+    background-color: rgb(71, 71, 143);
+}
+
+.cabecalho > header > .titulo > h1 {margin-left: 3%;} .cabecalho > header > .titulo > h3 {margin-left: 3%;}
+
+.tecnologias {
+    position: absolute;
+    margin-left: 70%;
+    margin-top: -15%;
+}
+
+.contatos {
+    position: absolute;
+    margin-left: 70%;
+    margin-top: -4%;
+}
+
+.escolaridade {
+    margin-left: 23%;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.font {
+    font-family: 'Nunito', sans-serif;
+}
+
+.font-400 {
+    font-weight: 400;
+}
+
+.deco-none {
+    text-decoration: none;
+}
+
+.color-none {
+    color: black;
+}
+
+.color-link {
+    color: rgb(41, 41, 255);
+}
