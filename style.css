@@ -77,3 +77,42 @@
 .color-link {
     color: rgb(41, 41, 255);
 }
+
+@media only screen and (max-width: 1100px) {
+    .sobre-mim {
+        margin-left: 5%;
+        margin-top: 55%;
+        margin-bottom: 5%;
+    }
+
+    .projetos {
+        margin-left: 5%;
+    }
+    
+    .projetos p {
+        margin-bottom: 5%;
+    }
+
+    .cabecalho > header > .foto{
+        position: absolute;
+        right: 7%;
+        top: 10%;
+    }
+
+    .escolaridade {
+        margin-left: 5%;
+        margin-top: 55%;
+    }
+
+    .tecnologias {
+        position: absolute;
+        margin-left: 5%;
+        margin-top: 4%;
+    }
+
+    .contatos {
+        position: absolute;
+        margin-left: 45%;
+        margin-top: 4%;
+    }
+}
